@@ -2,7 +2,7 @@ import java.util.Scanner;
 /**
  * Ejercicio 01: "Edad para Votar: Determinar si una persona es elegible para
  * votar en función de su edad (mayor o igual a 16 años)."
- * @author NombreAutor
+ * @author Felipe, Sofia
  * @version 1.0
  */
 public class Ejercicio01_LegibleVotacion {
@@ -23,4 +23,9 @@ public class Ejercicio01_LegibleVotacion {
 /***
  * EVIDENCIA DEL RUN:
  * Pegue aquí la evidencia de la ejecución del java
+ * run:
+Ingrese su edad: 
+20
+Usted es elegible para votar
+BUILD SUCCESSFUL (total time: 11 seconds)
  */
