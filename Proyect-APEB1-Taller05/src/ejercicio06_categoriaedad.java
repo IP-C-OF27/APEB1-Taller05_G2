@@ -4,7 +4,7 @@ import java.util.Scanner;
  * (niño, adolescente, adulto) en función de su edad."
  * @author Sofia, Felipe
  * @version */
-public class ejercicio06categoriaedad {
+public class ejercicio06_categoriaedad {
     public static void main(String[] args) {
         Scanner tcl = new Scanner(System.in);
         int edad;

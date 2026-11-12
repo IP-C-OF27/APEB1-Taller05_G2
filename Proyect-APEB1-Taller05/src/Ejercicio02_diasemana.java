@@ -35,5 +35,9 @@ public class Ejercicio02_diasemana {
 }//FIN DE LA CLASE 
 /***
  * EVIDENCIA DEL RUN:
- * Pegue aquí la evidencia de la ejecución del java
+ run:
+Ingrese numero de dia (1-7): 
+7
+El numero: 7 corresponde a: Domingo
+BUILD SUCCESSFUL (total time: 2 seconds)
  */

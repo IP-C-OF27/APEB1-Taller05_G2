@@ -5,7 +5,7 @@ Ejercicio 08: "Calculadora de IMC: Calcular el índice de masa corporal (IMC)
  * peso normal, sobrepeso, etc.)."
  * @author Sofia, Felipe
  * @version */
-public class Ejercicio08CalculadoraIMC {
+public class Ejercicio08_CalculadoraIMC {
     public static void main(String[] args) {
         Scanner tcl = new Scanner(System.in);
         double Imc,altura,peso;
@@ -30,9 +30,10 @@ public class Ejercicio08CalculadoraIMC {
 /***
  * EVIDENCIA DEL RUN
  run:
-Ingresar el precio del producto
-100
-El precio final del producto es: 90.0
-BUILD SUCCESSFUL (total time: 0 seconds)
-
+Ingrese su peso en Kg
+53
+Ingrese su altura en metros
+1,58
+Su Imc es: 21,23 por lo tanto es de peso normal 
+BUILD SUCCESSFUL (total time: 5 seconds)
  */
