@@ -7,6 +7,7 @@ Ejercicio 08: "Calculadora de IMC: Calcular el índice de masa corporal (IMC)
  * @version */
 public class Ejercicio08_CalculadoraIMC {
     public static void main(String[] args) {
+        //AQUÍ AGREGUE TODO SU CÓDIGO...
         Scanner tcl = new Scanner(System.in);
         double Imc,altura,peso;
         System.out.println("Ingrese su peso en Kg");

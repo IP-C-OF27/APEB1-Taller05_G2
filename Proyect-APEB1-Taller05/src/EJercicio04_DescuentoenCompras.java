@@ -6,6 +6,7 @@ import java.util.Scanner;
  * @version */
 public class Ejercicio04_DescuentoenCompras {
     public static void main(String[] args) {
+        //AQUÍ AGREGUE TODO SU CÓDIGO...
         Scanner tcl = new Scanner(System.in);
         double producto, total ;
         System.out.println("Ingresar el precio del producto");

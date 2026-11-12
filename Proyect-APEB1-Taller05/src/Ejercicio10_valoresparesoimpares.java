@@ -7,6 +7,7 @@ import java.util.Scanner;
  */
 public class Ejercicio10_valoresparesoimpares {
     public static void main(String[] args) {
+        //AQUÍ AGREGUE TODO SU CÓDIGO...
         Scanner tcl = new Scanner(System.in);
         int numero;
         System.out.println("Ingrese el numero a determinar");

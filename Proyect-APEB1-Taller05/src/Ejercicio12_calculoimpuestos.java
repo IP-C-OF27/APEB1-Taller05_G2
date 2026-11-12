@@ -10,6 +10,7 @@ import java.util.Scanner;
  */
 public class Ejercicio12_calculoimpuestos {
     public static void main(String[] args) {
+        //AQUÍ AGREGUE TODO SU CÓDIGO...
         Scanner tcl = new Scanner(System.in);
         String marca, origen;
         double impuesto, costo, total;
@@ -45,9 +46,15 @@ public class Ejercicio12_calculoimpuestos {
 /***
  * EVIDENCIA DEL RUN
  run:
-Ingresar el precio del producto
-120
-El precio final del producto es: 108.0
-BUILD SUCCESSFUL (total time: 2 seconds)
+Ingresar la marca del auto
+auto
+Ingresar el origen del auto, Alemania, Japon, Italia, Usa
+Alemania
+Ingresar el costo del auto
+5200
+El impuesto es: 1040.0
+El precio de venta es: 6240.0
+BUILD SUCCESSFUL (total time: 23 seconds)
+
 
  */

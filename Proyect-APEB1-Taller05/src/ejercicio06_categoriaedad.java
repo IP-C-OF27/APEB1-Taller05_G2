@@ -6,6 +6,7 @@ import java.util.Scanner;
  * @version */
 public class Ejercicio06_categoriaedad {
     public static void main(String[] args) {
+        //AQUÍ AGREGUE TODO SU CÓDIGO...
         Scanner tcl = new Scanner(System.in);
         int edad;
         System.out.println("Ingrese su edad:");
