@@ -22,9 +22,8 @@ public class Ejercicio11_Pedidos_Online {
         precio = tcl.nextDouble();
         total = cant * precio;
         if ( cant > 50) 
-            total = total * 0.85;
+            total *= 0.85;
         System.out.println("El costo total del producto " + desc + " es de: $" + total);
-            
     }
 }
 

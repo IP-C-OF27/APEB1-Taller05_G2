@@ -4,7 +4,7 @@ import java.util.Scanner;
  * 10% si el precio original es mayor de $100; de lo contrario, no hay descuento.."
  * @author Sofia, Felipe
  * @version */
-public class EJercicio04_DescuentoenCompras {
+public class Ejercicio04_DescuentoenCompras {
     public static void main(String[] args) {
         Scanner tcl = new Scanner(System.in);
         double producto, total ;
