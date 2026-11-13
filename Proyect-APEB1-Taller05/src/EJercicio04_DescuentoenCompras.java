@@ -12,7 +12,7 @@ public class Ejercicio04_DescuentoenCompras {
         System.out.println("Ingresar el precio del producto");
         producto = tcl.nextDouble();
         total = producto;
-            if (producto >= 100)
+            if (producto > 100)
                 total = producto * 0.9;
         System.out.println("El precio final del producto es: " + total );   
     }
