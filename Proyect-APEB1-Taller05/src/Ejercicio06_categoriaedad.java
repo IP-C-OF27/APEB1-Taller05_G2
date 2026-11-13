@@ -19,7 +19,6 @@ public class Ejercicio06_categoriaedad {
            else
                 System.out.println("LA CATEGORIA ES ADULTO");
     }
-    
 }
 /***
  * EVIDENCIA DEL RUN
