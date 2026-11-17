@@ -22,10 +22,10 @@ public class Ejercicio06_categoriaedad {
 }
 /***
  * EVIDENCIA DEL RUN
- run:
-Ingresar el precio del producto
-100
-El precio final del producto es: 90.0
-BUILD SUCCESSFUL (total time: 0 seconds)
+run:
+Ingrese su edad:
+15
+LA CATEGORIA ES ADOLESCCENTE
+BUILD SUCCESSFUL (total time: 5 seconds)
 
  */

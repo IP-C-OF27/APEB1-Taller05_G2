@@ -28,8 +28,12 @@ public class Ejercicio03_Mayor_de_tres{
  * EVIDENCIA DEL RUN:
  * Pegue aquí la evidencia de la ejecución del java
  * run:
-Ingrese su edad: 
-20
-Usted es elegible para votar
-BUILD SUCCESSFUL (total time: 11 seconds)
+Ingrese el primer numero: 
+10
+Ingrese el segundo numero: 
+7
+Ingrese el tercer numero: 
+12
+El numero mayor es: 12
+BUILD SUCCESSFUL (total time: 9 seconds)
  */

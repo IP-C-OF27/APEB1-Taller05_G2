@@ -20,7 +20,7 @@ public class Ejercicio08_CalculadoraIMC {
             System.out.println(" por lo tanto es de bajo peso " );
         }
         else 
-            if (Imc < 30){
+            if (Imc < 25){
             System.out.println(" por lo tanto es de peso normal " );
         }
         else {
